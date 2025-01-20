@@ -1,7 +1,7 @@
 
 # UniMatch
 
-This project implements a matchmaking system backend service built with Node.js, Express, and Oracle Database. The system helps match users based on their personality traits, preferences, and compatibility scores.
+This project implements a matchmaking system full-stack service built with Node.js, Express, and Oracle Database. The system helps match users based on their personality traits, preferences, and compatibility scores.
 
 ## Features
 
